@@ -30,7 +30,7 @@ TRAIN = True
 ```
 
 ## Training Result
-The unit of x-axis is 1e-6.
+The unit of x-axis is 1e6.
 
 ![image](01-DoubleDQN-flappy-bird/report.png)
 
