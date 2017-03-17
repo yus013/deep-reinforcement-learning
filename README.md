@@ -8,7 +8,7 @@
 
 ## Double Q-learning 
 
-This project applies double Q-learning architecture to obtain high performance in playing the famous flappy bird game.
+This project applies double Q-learning architecture to obtain high performance in playing the famous flappy bird game. The game comes from [Yen](https://github.com/yenchenlin/DeepLearningFlappyBird.git) on github
 
 To run the demo
 
